@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my website and a project for my university<br>🌱 I’m currently learning js and react<br>⚡ Currently studying Industrial Engineering in Kocaeli University
+🔭 I’m currently working on my website and a website development project for my university<br>🌱 I’m currently learning js and react<br>⚡ Currently studying Industrial Engineering in Kocaeli University
 
 
 ## 🌐 Socials:
