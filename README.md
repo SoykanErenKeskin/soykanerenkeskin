@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project that makes order managementvfor a firm<br>🌱 I’m currently learning data science<br>⚡ Currently studying Industrial Engineering in Kocaeli University
+🔭 I’m currently working on a project that makes order management for a firm<br>🌱 I’m currently learning data science<br>⚡ Currently studying Industrial Engineering in Kocaeli University
 
 
 ## 🌐 Socials:
