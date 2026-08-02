@@ -1,21 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on a project that makes order management for a firm<br>🌱 I’m currently learning data science<br>⚡ Currently studying Industrial Engineering in Kocaeli University
+<!-- Dynamic GitHub profile cards powered by soykanerenkeskin.com -->
 
+<p align="center">
+  <a href="https://soykanerenkeskin.com/en">
+    <img
+      src="https://soykanerenkeskin.com/api/profile/cards/hero?v=profile-v3-2"
+      alt="Soykan Eren Keskin — personal system and current Eder project"
+      width="880"
+    />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soykanerenkeskin) 
+<p align="center">
+  <a href="https://soykanerenkeskin.com/en/projects">
+    <img
+      src="https://soykanerenkeskin.com/api/profile/cards/work?v=profile-v3-2"
+      alt="What I build and featured projects"
+      width="880"
+    />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SoykanErenKeskin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SoykanErenKeskin&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoykanErenKeskin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://soykanerenkeskin.com/en/projects/kocaeli-real-estate"><strong>Eder</strong></a>
+  ·
+  <a href="https://soykanerenkeskin.com/en/projects/order-tracking-system"><strong>Order Tracking App</strong></a>
+  ·
+  <a href="https://soykanerenkeskin.com/en/projects"><strong>Reservoir Forecasting</strong></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <a href="https://soykanerenkeskin.com/en/contact">
+    <img
+      src="https://soykanerenkeskin.com/api/profile/cards/system?v=profile-v3-2"
+      alt="System activity, technology, and contact"
+      width="880"
+    />
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SoykanErenKeskin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/soykanerenkeskin"><strong>LinkedIn</strong></a>
+  ·
+  <a href="https://soykanerenkeskin.com/en"><strong>Portfolio</strong></a>
+  ·
+  <a href="mailto:soykanerenkeskin@gmail.com"><strong>Email</strong></a>
+</p>
