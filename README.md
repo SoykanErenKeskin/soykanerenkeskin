@@ -24,8 +24,6 @@
   <a href="https://soykanerenkeskin.com/en/projects/kocaeli-real-estate"><strong>Eder</strong></a>
   ·
   <a href="https://soykanerenkeskin.com/en/projects/order-tracking-system"><strong>Order Tracking App</strong></a>
-  ·
-  <a href="https://soykanerenkeskin.com/en/projects"><strong>Reservoir Forecasting</strong></a>
 </p>
 
 <p align="center">
