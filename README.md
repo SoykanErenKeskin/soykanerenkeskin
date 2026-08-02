@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://soykanerenkeskin.com/en">
     <img
-      src="https://soykanerenkeskin.com/api/profile/cards/hero?v=profile-v4"
+      src="https://soykanerenkeskin.com/api/profile/cards/hero?v=profile-v5"
       alt="Soykan Eren Keskin — personal system and current Eder project"
       width="880"
     />
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://soykanerenkeskin.com/en/projects">
     <img
-      src="https://soykanerenkeskin.com/api/profile/cards/work?v=profile-v4"
+      src="https://soykanerenkeskin.com/api/profile/cards/work?v=profile-v5"
       alt="What I build and featured projects"
       width="880"
     />
@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://soykanerenkeskin.com/en/contact">
     <img
-      src="https://soykanerenkeskin.com/api/profile/cards/system?v=profile-v4"
+      src="https://soykanerenkeskin.com/api/profile/cards/system?v=profile-v5"
       alt="System activity, technology, and contact"
       width="880"
     />
